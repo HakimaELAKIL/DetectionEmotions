@@ -1,4 +1,4 @@
-# voice_record
+# voice_record and flask api back-end interaction with emotion detection model
 
 A new Flutter project.
 
